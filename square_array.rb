@@ -8,6 +8,7 @@ def square_array(numbers)
     
   # store and square
   number.square!
+
   # square_array(number) ** 2
   # number ** 2
   # puts (number ** 2)
