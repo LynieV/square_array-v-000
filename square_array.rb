@@ -1,7 +1,7 @@
 def square_array(numbers)
   # your code here
   
-  numbers.each ** 2 do |number|
+  numbers.each do |number|
     
   # store and square
   # number.square!
