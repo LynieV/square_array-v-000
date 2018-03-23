@@ -1,4 +1,4 @@
-def square_array(numbers)
+def square_array(numbers) ** 2
   # your code here
   
   numbers.each do |number|
